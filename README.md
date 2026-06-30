@@ -6,19 +6,43 @@ An intelligent full-stack productivity web application powered by **Google Gemin
 
 ## Features
 
+### Smart Task Management
+AI assigns priority and risk scores to every task for better organization and focus.
 
-**Smart Task Management** - Create tasks with AI-powered priority & risk scoring 
-**AI Prioritization** - Gemini analyzes deadlines, effort, and context to rank tasks 
-**Risk Predictor** - 0–100 risk score with AI explanation and recommendations 
-**Daily Scheduler** - AI generates optimized schedules around your calendar 
-**One-Click AI Help** - Context-aware action buttons per task (Resume → ATS Score, Interview → Mock Questions, etc.) 
-**Subtask Decomposition** - AI breaks complex tasks into actionable subtasks 
-**Calendar Intelligence** - Syncs Google Calendar; detects free slots and suggests tasks for each gap 
-**Goal Tracking** - Daily/weekly/monthly goals with milestone tracking 
-**Habit Streaks** - Daily habit logging with streak tracking and 7-day history 
-**Weekly AI Review** - Gemini-generated narrative review with patterns and recommendations 
-**Voice Input** - Web Speech API — speak tasks naturally, AI parses intent 
-**Behavior Profiling** - AI learns your work patterns over time for smarter suggestions 
+### AI Prioritization (Gemini Powered)
+Ranks tasks based on deadlines, effort, and context awareness.
+
+### Risk Predictor (0–100 Score)
+Provides a risk score for each task along with explanation and recommendations.
+
+### AI Daily Scheduler
+Automatically generates an optimized daily schedule using calendar data.
+
+### One-Click AI Assistance
+- Resume → ATS optimization and feedback  
+- Interview → Mock questions and preparation help  
+- Tasks → Context-aware suggestions  
+
+### Subtask Breakdown
+Breaks complex tasks into smaller, actionable steps using AI.
+
+### Calendar Intelligence
+Syncs with Google Calendar, detects free slots, and suggests tasks for available time.
+
+### Goal Tracking System
+Tracks daily, weekly, and monthly goals with milestone-based progress monitoring.
+
+### Habit Tracking
+Allows habit logging with streak tracking and history analysis.
+
+### Weekly AI Insights
+Generates weekly productivity summaries with patterns and recommendations.
+
+### Voice Task Input
+Create tasks using natural speech input via Web Speech API.
+
+### Behavioral Learning
+Learns user behavior patterns over time to improve suggestions and scheduling.
 
 ---
 
