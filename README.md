@@ -233,12 +233,12 @@ Task Created
 
 ## Tech Stack
 
-Framework - Next.js 15 (App Router)
-Language - TypeScript
-Database - MongoDB + Mongoose
-Auth - NextAuth v5
-AI - Google Gemini 1.5 Flash
-Calendar - Google Calendar API v3
-Styling - Tailwind CSS
-Deployment - Google Cloud Run
-Container - Docker
+Framework: Next.js 15 (App Router)  
+Language: TypeScript  
+Database: MongoDB with Mongoose  
+Authentication: NextAuth v5  
+AI: Google Gemini 1.5 Flash  
+Calendar Integration: Google Calendar API v3  
+Styling: Tailwind CSS  
+Deployment: Google Cloud Run  
+Containerization: Docker
