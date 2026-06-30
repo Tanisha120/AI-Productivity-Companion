@@ -242,3 +242,10 @@ Calendar Integration: Google Calendar API v3
 Styling: Tailwind CSS  
 Deployment: Google Cloud Run  
 Containerization: Docker
+
+
+## Documentation
+
+Full project details: 
+https://docs.google.com/document/d/13228HITVNTYqrBqhpZ8MOj7MCkjkPaGX/edit?usp=sharing&ouid=110550250835980718387&rtpof=true&sd=true
+
