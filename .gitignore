@@ -43,3 +43,7 @@ env.yaml
 env.yaml
 .env
 .env.local
+.env
+.env.local
+env.yaml
+node_modules
